@@ -1,0 +1,11 @@
+@charset "utf-8";
+
+.div {
+    color: rgb(0, 255, 170); /* テキストを青色に設定 */
+    font-size: 20px; /* フォントサイズを20ピクセルに設定 */
+  }
+
+.my-image {
+    width: 300px; 
+    height: auto; 
+  }
