@@ -1,2 +1,2 @@
 # TATAKAE
-二度目の挑戦
+This project is a beginner's test of HTML coding.
